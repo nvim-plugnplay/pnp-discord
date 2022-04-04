@@ -1,0 +1,6 @@
+# Rust files
+/target   # artifacts
+**/*.rs.bk # rustfmt backup files
+
+# Pnp files
+config.*
